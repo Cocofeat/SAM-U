@@ -1,6 +1,6 @@
 # SAM-U 
-## MICCAI2023 UNSURE workshop submission
-* This repository provides the code for our accepted MICCAI'2023 UNSURE workshop paper "SAM-U: Multi-box prompts triggered uncertainty estimation for reliable SAM in medical image"
+## MICCAI2023 Resource-Efficient Medical Image Analysis (REMIA) Workshop
+* This repository provides the code for our accepted MICCAI'2023 [REMIA](https://miccai-remia.github.io/REMIA%20Program_2023.pdf) workshop paper "SAM-U: Multi-box prompts triggered uncertainty estimation for reliable SAM in medical image"
 * Official implementation [SAM-U](https://arxiv.org/pdf/2307.04973.pdf)
 
 ## Introduction
